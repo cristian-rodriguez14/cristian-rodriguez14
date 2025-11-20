@@ -19,7 +19,7 @@ Ingeniero de Sistemas e Ingeniero Electrónico con experiencia en desarrollo de 
 
 Me apasiona construir productos digitales que resuelvan problemas reales, documentar procesos de forma clara y trabajar en equipos donde la mejora continua sea parte del día a día.
 
-🧩 Sobre mí
+🧩 <b>Sobre mí</b>
 
 💻 Desarrollador con experiencia en diseño técnico, construcción de funcionalidades y pruebas de software.
 
@@ -34,7 +34,7 @@ Me apasiona construir productos digitales que resuelvan problemas reales, docume
 🚀 Busco roles donde pueda integrar desarrollo, análisis funcional y UX para aportar soluciones completas.
 
 
-🛠 Tecnologías y herramientas
+🛠 <b>Tecnologías y herramientas</b>
 <p align="left">
   <label>Desarrollo</label>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
