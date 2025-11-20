@@ -35,55 +35,24 @@ Me apasiona construir productos digitales que resuelvan problemas reales, docume
 
 
 🛠 Tecnologías y herramientas
-Desarrollo
-
-HTML, CSS, JavaScript
-
-React (en aprendizaje)
-
-Node.js (básico)
-
-Git & GitHub
-
-PWA
-
-Unity (prototipado)
-
-Diseño, UX & Documentación
-
-Figma
-
-Wireframes y prototipos
-
-User Personas, Journey Maps
-
-Investigación UX
-
-Design Thinking
-
-Casos de uso, Historias de Usuario
-
-UML, BPMN
-
-Pruebas & Calidad
-
-Pruebas funcionales
-
-Criterios de aceptación
-
-Pruebas de usuario
-
-TestLink, Jira, Trello
-
-Documentación técnica
-
-Metodologías
-
-Scrum
-
-Ciclo de vida del software
-
-Análisis estructurado
+<p align="left">
+  <!-- Desarrollo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  
+  <!-- Diseño -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+  
+  <!-- Documentación -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40"/>
+  
+  <!-- Control de versiones -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
 📌 Proyectos Destacados
 
